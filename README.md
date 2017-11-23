@@ -21,7 +21,7 @@ Or install it yourself as:
 
 ## Usage
 
-Las instrucciones de uso son simples, se trata de una pareja de coordenas (x,y).
+Las instrucciones de uso son simples: se trata de una pareja de coordenas (x,y).
 
 ## Development
 
